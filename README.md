@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey5588&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxnack&theme=tokyonight)
 <!--
 **Oxnack/Oxnack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
