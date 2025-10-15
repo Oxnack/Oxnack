@@ -1,4 +1,4 @@
-## [Our site](oxnack.com) - join us
+## [Our site](https://oxnack.com) - join us
 
 - 🔭 I’m currently working on: I am a backend developer with a focus on DevOps and im working with network
 - 🌱 I’m currently learning: new technology stacks and neural networks
