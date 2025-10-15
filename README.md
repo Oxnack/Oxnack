@@ -1,8 +1,4 @@
-## oxnack.com - join us
-
-**Oxnack/Oxnack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## [Our site](oxnack.com) - join us
 
 - 🔭 I’m currently working on: I am a backend developer with a focus on DevOps and im working with network
 - 🌱 I’m currently learning: new technology stacks and neural networks
